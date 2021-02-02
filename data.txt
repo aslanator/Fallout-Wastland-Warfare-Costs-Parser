@@ -1,0 +1,727 @@
+ADVANCED ITEMS
+Armor Army Helmet 17
+Armor Cleanroom Suit 25
+Armor Combat Armor 13
+Armor Commando Chest Piece 15
+Armor Damaged Hazmat Suit 3
+Armor Environmental Suit 15
+Armor Freefall Leg Armor 2
+Armor Hazmat Suit 8
+Armor NCR Salvaged Power
+Armour 26
+Armor Protector's Right Arm Guard 10
+Armor Sturdy Combat Armor 21
+Cloth 1st Recon Beret 12
+Cloth NCR Engineer Jumpsuit 15
+Clothes Airship Captain's Hat 5
+Clothes Assault Gas Mask 2
+Clothes Brotherhood of Steel Hood 7
+Clothes Camouflage 22
+Clothes Eyeglasses 7
+Clothes Magnifying Visor 8
+Clothes Military Fatigues 7
+Clothes Robotic Bits 7
+Clothes Vault 111 Jumpsuit 12
+Gear Admin Password 25
+Gear Armor Piercing Ammo 1
+Gear Artillery Smoke Grenade 4
+Gear Car Security Override 1
+Gear Climbing Spikes 2
+Gear Custom Ammo 15
+Gear Draft Codex 9
+Gear Fire Extinguisher 4
+Gear Flashlight 3
+Gear Hand-Written Note 25
+Gear Hollow Point Ammo 2
+Gear Incendiary Ammo 3
+Gear NCR Emergency Radio 4
+Gear Overclocker 14
+Gear Stethoscope 4
+Gear Stuffed Monkey 5
+Gear Temporary Password 4
+Gear Turret Inhibitors 3
+Gear Unsent Letter 50
+Gear Vertibird Signal Grenade 4
+Gear Weapon Repair Kit 6
+ADVANCED ITEMS (CONTINUED)
+Heavy
+Weapon Broadsider 31
+Heavy
+Weapon Light Machine Gun 18
+Heavy
+Weapon Minigun 23
+Heavy
+Weapon Missile Launcher 52
+Melee Baton 10
+Melee Chinese Officer's Sword 7
+Melee Incendiary Baton 13
+Melee Poisoner's Ripper 7
+Melee Relentless Chinese Officer's
+Sword 9
+Melee Ripper 6
+Melee Thermic Lance 35
+Mine C4 Plastic Explosive 10
+Mine Fragmentation Mine 5
+Pistol .357 Magnum Revolver 8
+Pistol .44 Magnum Revolver 8
+Pistol .44 Revolver 6
+Pistol 10mm Pistol 6
+Pistol 12.7MM Pistol 4
+Pistol A Light Burning in the
+Darkness 14
+Pistol Explosive 100mm Pistol 9
+Pistol Hunter's 10mm Pistol 8
+Pistol Hunting Revolver 7
+Pistol Indy's Freezing .44 9
+Pistol Kellogg's Pistol 10
+Pistol Kneecapper .44 Revoler 7
+Pistol Lorenzo's Artifact Gun 18
+Pistol Thirst Zapper Cola 2
+Rifle Assault Carbine 10
+Rifle Assault Rifle 8
+Rifle Caravan Shotgun 12
+Rifle Combat Rifle 16
+Rifle Combat Shotgun 10
+Rifle Cowboy Repeater 11
+Rifle Double-Barrel Shotgun 12
+Rifle Explosive Combat Rifle 19
+Rifle Freezing Combat Shotgun 12
+Rifle Grenade Launcher 35
+Rifle Hunter's Hunting Rifle 22
+Rifle Hunter's Laser Musket 16
+Rifle Hunting Rifle 20
+ADVANCED ITEMS (CONTINUED)
+Rifle Hunting Shotgun 9
+Rifle Incendiary Assault Rifle 13
+Rifle Kneecapper Laser Musket 16
+Rifle Laser Musket 14
+Rifle Machine Gun Turret MK III 15
+Rifle Machine Gun Turret Mk1 10
+Rifle Marksman Carbine 14
+Rifle Plasma Infused Combat
+Shotgun 12
+Rifle Service Rifle 10
+Rifle Sniper Rifle 26
+Rifle Submachine Gun 10
+Rifle Trail Carbine 24
+Rifle Troubleshooter's Combat
+Rifle 17
+Thrown
+Weapon Fragmentation Grenade 6
+Thrown
+Weapon Incendiary Grenade 7
+Thrown
+Weapon Stun Grenade 4
+AUTOMATRON ITEMS
+Automatron Assaultron Legs 88
+Automatron Assaultron Torso 66
+Automatron Junkbot Torso 8
+Automatron Mr Handy Legs 27
+Automatron Mr Handy Torso 17
+Automatron Protectron Legs 1
+Automatron Protectron Torso 17
+Automatron Robobrain Legs 8
+Automatron Robobrain Torso 28
+Automatron Sentry Bot Legs 6
+Automatron Sentry Bot Torso 173
+CREATURE ITEMS
+Armor Corrugated Plates 7
+Armor Spiked Harness 10
+Armor Tesla Coil Harness 7
+Clothes Limb Braces 12
+Gear Chemical Coating 10
+Gear Dead Man's Switch 8
+Heroic Wild -0.2
+Melee Bloated Glowing One Swipe 0
+Melee Deathclaw Trample 0
+Melee Deathclaw Crush 0
+© 2021 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda Softworks, ZeniMax and related
+ logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries.
+ Fallout and related logos are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S.
+ and/or other countries. The Modiphius Entertainment logo is TM of Modiphius Entertainment.
+ All rights reserved to their respective owners.
+FOWW IUC-45-001
+ITEMS: ADVANCED, AUTOMATRON & CREATURE
+CREATURE ITEMS (CONTINUED)
+Melee Deathclaw Head Butt 0
+Melee Deathclaw Roar 0
+Melee Deathclaw Swipe 0
+Melee Deathclaw Tail Sweep 0
+Melee Dog Bite 0
+Melee Feral Ghoul Swipe 0
+Melee Fog Crawler Claw 0
+Melee Fog Crawler Ground Pound 0
+Melee Glowing Radroach Swarm
+Bite 0
+Melee Hound Bite 0
+Melee Matriach Swipe 0
+Melee Mirelurk Claw 0
+Melee Mirelurk Hatchling Claw 0
+Melee Mirelurk Hunter Claw 0
+Melee Mirelurk Queen Claw 0
+Melee Mole Rat Bite 0
+Melee Mongrel Bite 0
+Melee Putrid Glowing One Swipe 0
+Melee Radroach Swarm Bite 0
+Melee Radscorpion Pincers & Sting 0
+Melee Weak Feral Ghoul Swipe 0
+Melee Young Deathclaw Crush 0
+Melee Young Deathclaw Swipe 0
+Mod Conditioning: Active 8
+Mod Conditioning: Adrenaline 3
+Mod Conditioning: Ankle Biter 8
+Mod Conditioning: Arm Breaker 10
+Mod Conditioning: Champion 10
+Mod Conditioning: Chancer 12
+Mod Conditioning: Chief 15
+Mod Conditioning: Crafty 8
+Mod Conditioning: Dash 9
+Mod Conditioning: Fast 5
+Mod Conditioning: Ferocious 3
+Mod Conditioning: Haymaker 12
+Mod Conditioning: Hit and Run 6
+Mod Conditioning: Independent 15
+Mod Conditioning: Lean 1
+Mod Conditioning: Rage 9
+Mod Conditioning: Savage 8
+Mod Conditioning: Sniffer 10
+Mod Conditioning: Stunning 12
+Mod Conditioning: Vicious 10
+CREATURE ITEMS (CONTINUED)
+Mod Conditioning: Vigilant 5
+Mod Conditioning: Wily 7
+Rifle Mirelurk Hunter Acid 0
+Rifle Mirelurk Queen Acid 0
+Thrown
+Weapon Centaur Lash 0
+Thrown
+Weapon Mirelurk Queen Brood 0
+DOG ITEMS
+Armor Chain Dog Collar 14
+Clothes Dog Bandana 7
+Clothes Spiked Muzzle 3
+HIGH TECH ITEMS
+Armor Enclave Power Armor 44
+Armor Heavy Synth Armor 28
+Armor Hellfire Armor 52
+Armor T-45 Power Armor 38
+Armor T-51 Power Armor 54
+Armor T-60 Power Armor 70
+Armor T-60f Power Armor 95
+Armor X-01 Power Armor 82
+Clothes Enclave Officer's Hat 5
+Clothes Institute Division Head Coat 7
+Clothes Institute Lab Coat 7
+Gear Creature Patch 15
+Gear Deathclaw Control
+Scrambler 10
+Gear Domestication Unit 12
+Gear Fusion Core 10
+Gear Gen 1 Synth Override 15
+Gear Pheromone Emitter 8
+Gear Pheromone Mask 12
+Gear Power Armor Patch 5
+Gear Pulse Shield 13
+Gear Synthbooster 20
+Gear Stealth Boy 22
+Gear Zaper 8
+Heavy
+Weapon Fat Man 45
+Heavy
+Weapon Final Judgement 35
+Heavy
+Weapon Gatling Laser 30
+Heavy
+Weapon Heavy Incinerator 35
+Heavy
+Weapon Incinerator 22
+HIGH TECH ITEMS (CONTINUED)
+Heavy
+Weapon Tesla Cannon 35
+Melee Ballistic Fist 16
+Melee Power Fist 3
+Melee Stun Baton 25
+Melee Super Sledge 30
+Mine Pulse Mine 4
+Pistol Colonel Autumn's 10mm
+Pistol 10
+Pistol Deadeye Gamma Gun 17
+Pistol Gamma Gun 13
+Pistol Institute Laser Pistol 3
+Pistol Laser Pistol 7
+Pistol Penetrating Laser Pistol 8
+Pistol Plasma Defender 12
+Pistol Plasma Pistol 6
+Pistol Protectron's Gaze 7
+Pistol Pulse Gun 11
+Pistol Staggering Institute Laser
+Pistol 7
+Pistol Wounding Laser Pistol 8
+Rifle Anti-Materiel Rifle 37
+Rifle Deadeye Institute Laser Rifle 14
+Rifle Flamer 24
+Rifle Gauss Rifle 42
+Rifle Institute Laser Rifle 10
+Rifle Laser Rifle 30
+Rifle Laser Turret 10
+Rifle Plasma Rifle 19
+Rifle Relentless Laser Rifle 32
+Rifle Tesla Rifle 20
+Thrown
+Weapon Cryo Grenade 6
+Thrown
+Weapon Plasma Grenade 7
+Thrown
+Weapon Pulse Grenade 3
+Thrown
+Weapon Synth Relay Grenade 18
+ROBOT ITEMS
+Armor Mechanist Armor and
+Helmet 43
+Cloth Triggerman Bowler 5
+Clothes Bowler Hat 7
+Gear Mr Handy Fuel 4
+Gear Robobrain Arms 5
+Gear Robot Repair Kit 18
+ROBOT ITEMS (CONTINUED)
+Gear Robot Repair Patch 10
+Gear Third-Arm Clamp 4
+Heavy
+Weapon Securitron Gatling Laser 20
+Heavy
+Weapon Securitron Missile Launcher 52
+Heroic Clunky -0.2
+Melee Assaultron Swipe 12
+Melee Empty Minigun 14
+Melee Hand Saw Blade 6
+Melee Hand Shock 25
+Melee Hand Vice Grip 3
+Melee Mr Handy Buzzsaw 6
+Mod Damage Self-Destruction 6
+Mod Hacking Module 10
+Mod Lockpick Module 10
+Mod Magnetic Attachment 2
+Mod Noxious Armor 14
+Mod Processor Overcharger 9
+Mod Radiation Coils 5
+Mod Recon Sensors 5
+Mod Regeneration Field 10
+Mod Resistance Field 14
+Mod Sensor Array (Robots) 13
+Mod Serrated Bodywork 5
+Mod Servo Boost 5
+Mod Stealth Field 5
+Mod Sub-Routine: Bash 5
+Mod Sub-Routine: Carnage 9
+Mod Sub-Routine: Combat
+Analysis 10
+Mod Sub-Routine: Combative 10
+Mod Sub-Routine: Emergency 3
+Mod Sub-Routine: Pause 7
+Mod Sub-Routine: Quick 5
+Mod Sub-Routine: Remote 15
+Mod Terminal Self-Destruction 25
+Mod Tesla Coils (Robots) 5
+Mod Welded Plate 13
+Pistol Eyebot Laser 4
+Pistol Eyebot Tesla Cannon 12
+Pistol Hand Cryojet 10
+Pistol Hand Gamma Gun 15
+Pistol Hand Lightning Gun 4
+Pistol Hand Nail Gun 7
+ROBOT ITEMS (CONTINUED)
+Pistol Mr Handy Flamer 10
+Pistol Protectron Hand Laser 10
+Pistol Robobrain Mesmetron 15
+Rifle Assaultron Head Laser 40
+Rifle Battered Assaultron Head
+Laser 30
+Rifle Robobrain Laser 7
+Rifle Securitron Grenade
+Launcher 35
+Rifle Securitron SMG 10
+SPECIAL ITEMS
+Melee Fire Hydrant Bat 38
+Melee Horrigan's Knife 40
+Melee Marcus Punch 0
+Pistol Alien Blaster 9
+Rifle Horrigan's Plasma Gun 30
+Thrown
+Weapon Suicider Mini Nuke 30
+SUPER MUTANT ITEMS
+Armor Bladed Helmet 7
+Armor Chains 7
+Armor Heavy Gauntlets 16
+Armor Rock's Bladed Helm 18
+Clothes Aviator Cap 16
+Clothes Leg Guards 8
+Clothes Shoulder Rags 10
+Thrown
+Weapon Behemoth Rock Throw 0
+Thrown
+Weapon Weak Behemoth Rock Throw 0
+UPGRADES
+Heroic Heroic 60
+Heroic Unpredictable 1.15
+Leader Beloved 16
+Leader Berserker 8
+Leader Blitzer 4
+Leader Bodyguard 12
+Leader Brawler 10
+Leader Bruiser 13
+Leader Commander 18
+Leader Co-Ordinator 18
+Leader Creature Controller 5
+Leader Defender 28
+Leader Dweller 8
+Leader Fusilier 12
+UPGRADES (CONTINUED)
+Leader Gatherer 15
+Leader Grenadier 4
+Leader Hunter 10
+Leader Old Timer 3
+Leader Procurer 15
+Leader Robot Controller 5
+Leader Selfless 5
+Leader Skipper 15
+Leader Stalker 8
+Leader Synth Expert 12
+Leader Tactician 18
+Leader Tech 9
+Leader Tech Chief 17
+Leader Thief 7
+Leader Veteran 13
+Leader Warden 12
+Leader Wasteland Searcher 5
+Leader Wrestler 7
+Mod Abraxo Paint 12
+Mod Aligned Sights 12
+Mod Arm Breaker 5
+Mod Armor Piercing Receiver 6
+Mod Asbestos Lining 5
+Mod Balanced 9
+Mod Ballistic Weave 6
+Mod Barbed 3
+Mod Bayonet 3
+Mod Biocom Mesh 6
+Mod Boosted Servos 5
+Mod Braced 5
+Mod Comfort Grip 10
+Mod Core Assembly 6
+Mod Counterweight 5
+Mod Cushioned 1
+Mod Custom Fitted 5
+Mod Dissipating 6
+Mod Elder Paint 18
+Mod Emergency Protocols 6
+Mod Explosive Shielding 4
+Mod Explosive Vent 6
+Mod Hair Trigger 6
+Mod Hardened Receiver 9
+Mod Headlamp 3
+Mod Headlamp (Power Armour) 10
+UPGRADES (CONTINUED)
+Mod Heavy 8
+Mod Hot Rod Shark Paint 7
+Mod Hydraulic Bracers 3
+Mod Impact Exchanger 9
+Mod Improved Flexibility 2
+Mod Internal Database 8
+Mod Jagged 10
+Mod Jet Pack 8
+Mod Lead Lined 4
+Mod Lengthened Barrel 4
+Mod Light 6
+Mod Lightweight 3
+Mod Long Barrel 8
+Mod Medic Pump 10
+Mod Muffled 5
+Mod Multi-Calibre 3
+Mod Multi-Purpose 3
+Mod Optimized Servos 5
+Mod Padded 3
+Mod Pneumatic 10
+Mod Powerful 16
+Mod Reactive Plates 9
+Mod Re-Bored 8
+Mod Recoil Compensator 7
+Mod Recon Sensors 7
+Mod Refined 2
+Mod Reflex Sights 10
+Mod Rusty Knuckles 2
+Mod Sensor Array (Power Armor) 12
+Mod Serrated Bayonet 9
+Mod Silenced 2
+Mod Spiked 6
+Mod Stun Pack 3
+Mod Superior Materials 10
+Mod Targeting HUD 10
+Mod Tesla Bracers 2
+Mod Tesla Coils (Power Armor) 7
+Mod Thicker Plating 7
+Mod Toxic 5
+Mod V.A.T.S. Matrix Overlay 8
+Mod Venomous 3
+Mod Vim! Refresh Paint 15
+Perk Action Boy / Girl 10
+Perk Adamantion Skeleton 8
+UPGRADES (CONTINUED)
+Perk Animal Friend 8
+Perk Animal Friend II 6
+Perk Animal Friend III 4
+Perk Armorer 3
+Perk Attack Dog 10
+Perk Basher 5
+Perk Big Leagues 5
+Perk Blacksmith 3
+Perk Blitz 3
+Perk Bloody Mess 4
+Perk Chem Resistant 3
+Perk Chemist 6
+Perk Collaborative 15
+Perk Command: Act 13
+Perk Command: Assault Pack 6
+Perk Command: Attack 8
+Perk Command: Attack Pack 5
+Perk Command: Counter 4
+Perk Command: Find 8
+Perk Command: Guided Strike 8
+Perk Command: Heel 8
+Perk Command: Impetous 7
+Perk Command: Protect 4
+Perk Command: Scatter 9
+Perk Command: Speed 8
+Perk Command: Take it 6
+Perk Companion 12
+Perk Concentrated Fire 9
+Perk Creature Trainer 4
+Perk Demolition Expert 5
+Perk Entangle 8
+Perk Finesse 15
+Perk Fire Resistant 7
+Perk Ghoulish 5
+Perk Gun Nut - Heavy 3
+Perk Gun Nut - Pistol 3
+Perk Gun Nut - Rifle 3
+Perk Gunslinger 5
+Perk Hack Robot 15
+Perk Hacker 4
+Perk Heavy Gunner 5
+Perk Hit the Deck 3
+Perk Huntsman 7
+Perk Impatient 13
+UPGRADES (CONTINUED)
+Perk Irresponsible 10
+Perk Lead Belly 5
+Perk Life Giver 7
+Perk Light Step 5
+Perk Local Leader 5
+Perk Local Leader II 5
+Perk Locksmith 4
+Perk Lone Wanderer 22
+Perk Medic 4
+Perk Mend Robot 8
+Perk Moving Target 8
+Perk Mysterious Stranger 6
+Perk Mysterious Stranger II 17
+Perk Mysterious Stranger III 3
+Perk Nerd Rage 6
+Perk Ninja 6
+Perk Nuclear Physicist 10
+Perk Pack Leader 23
+Perk Pain Train 1
+Perk Penetrator 15
+Perk Program: Act 13
+Perk Program: Aggressive 5
+Perk Program: Attack 8
+Perk Program: Co-ordinated 4
+Perk Program: Hack 8
+Perk Program: Intercept 4
+Perk Program: Pick 8
+Perk Program: Return 8
+Perk Program: Speed 8
+Perk Program: Spread 9
+Perk Program: Synchronized 7
+Perk Program: Volley 7
+Perk Pyromaniac 10
+Perk Quick Thinking 4
+Perk Rad Resistant 3
+Perk Refractor 7
+Perk Rifle Man 5
+Perk Robotics Expert 4
+Perk Shotgun Surgeon 6
+Perk Sneak 3
+Perk Steady Aim 8
+Perk Strong Constitution 5
+Perk Stun Resistant 13
+Perk Toughness 7
+UPGRADES (CONTINUED)
+Perk Travel Light 7
+Perk Weapon Handling 5
+USEABLE ITEMS
+Alcohol Atomic Cocktail 2
+Alcohol Beer 9
+Alcohol Bourbon 6
+Alcohol Dirty Wastelander 7
+Alcohol Ice Cold Gwinette Ale 3
+Alcohol Moonshine 3
+Alcohol Rum 5
+Alcohol Vodka 6
+Alcohol Whiskey 4
+Alcohol Wine 2
+Chem Addictol 3
+Chem Berry Mentats 13
+Chem Buffout 14
+Chem Bufftats 25
+Chem Calmex 12
+Chem Day Tripper 6
+Chem Doctors Bag 12
+Chem Fury 10
+Chem Healing Powder 15
+Chem Jet 13
+Chem Med-X 12
+Chem Mentats 11
+Chem Mysterious Serum 15
+Chem Orange Mentats 14
+Chem Overdrive 13
+Chem Psycho (chem) 13
+Chem Psychobuff 20
+Chem Radaway 10
+Chem Rad-X 5
+Chem Rebound 8
+Chem Refreshing Beverage 37
+Chem Spark 18
+Chem Steady 8
+Chem Stimpack 28
+Chem Ultra Jet 25
+Chem X-111 Compound 30
+Chem X-Cell 17
+Food Bighorner Steak 10
+Food Bloatfly Meat 17
+Food Blood Pack 15
+Food Brahmin Meat 20
+USEABLE ITEMS (CONTINUED)
+Food Caravan Lunch 16
+Food Cave Fungus 8
+Food Cram 12
+Food Deathclaw Meat 29
+Food Fog Crawler Meat 23
+Food Fresh Melon 9
+Food Gecko Kebab 20
+Food Honey Mesquite Pod 5
+Food Iguana Bits 20
+Food Iguana On A Stick 15
+Food Mirelurk Meat 20
+Food Mole Rat Meat 24
+Food Mutant Hound Meat 22
+Food Nuka-Cherry 20
+Food Nuka-Cola 15
+Food Nuka-Cola Quantum 41
+Food Queen Mirelurk Meat 12
+Food Radroach Meat 9
+Food Radscorpion Egg 23
+Food Radscorpion Meat 24
+Food Radstag Meat 24
+Food Squirrel Bits 9
+Food Squirrel on a Stick 15
+Food Squirrel Stew 20
+Food Sugar Bombs 9
+Food Sunset Sarsaparilla 24
+Food Tato and Water 9
+Food Yao Guai Meat 29
+Food Yao Guai Rib Meat 24
+WASTELAND ITEMS
+Armor Armored Pads 13
+Armor Damaged Legate Armor 23
+Armor Gecko-Backed Metal Armor 16
+Armor Heavy Raider Armor 21
+Armor Power Armor Frame 15
+Armor Raider Power Armor 33
+Armor Sturdy Leather Armor 16
+Armor Sturdy Metal Armor 18
+Clothes Atom Cats Jacket And Jeans 12
+Clothes Baseball Cap 5
+Clothes Battered Fedora 12
+Clothes Dirty Postman Uniform 12
+Clothes Mirelurk Carapace 23
+Clothes Patched Three-Piece Suit 12
+WASTELAND ITEMS (CONTINUED)
+Clothes Red Flight Helmet 5
+Clothes Road Googles 7
+Clothes Sea Captain's Hat 7
+Clothes Tricorn Hat 7
+Gear Binoculars 4
+Gear Fragile Bobby Pin 4
+Gear Mirelurk Eggs 12
+Gear Rope 2
+Gear Skeleton Key 25
+Gear Snakebite Tourniquet 2
+Heavy
+Weapon Freezing Junk Jet 12
+Heavy
+Weapon Junk Jet 10
+Melee Assaultron Blade 3
+Melee Baseball Bat 1
+Melee Blade of the East 25
+Melee Bloodied Board 9
+Melee Bloodied Pipe Wrench 7
+Melee Board 8
+Melee Cattle Prod 3
+Melee Crippling Tire Iron 18
+Melee Deathclaw Gauntlet 15
+Melee Dog Tag Fist 2
+Melee Fire Axe 10
+Melee Freezing Machete 3
+Melee Huge Club 21
+Melee Hunter's Baseball Bat 4
+Melee Irradiated Sledgehammer 14
+Melee Junkie's Nail Board 4
+Melee Lead Pipe 9
+Melee Machete 1
+Melee Machete Gladius 3
+Melee Mr Handy Buzz Blade 7
+Melee Nail Board 1
+Melee Penetrating Lead Pipe 13
+Melee Pipe Wrench 6
+Melee Plasma Infused Assaultron
+Blade 4
+Melee Rebar Club 18
+Melee Shishkebab 15
+Melee Sledgehammer 12
+Melee Spear 4
+Melee Staggering Tire Iron 16
+Melee Tire Iron 12
+WASTELAND ITEMS (CONTINUED)
+Melee Troubleshooter's Nail Board 2
+Melee Troubleshooter's Pipe
+Wrench 7
+Melee Vertibird Blade 22
+Melee Wounding Machete 3
+Mine Bottlecap Mine 10
+Pistol Bolt-Action Pipe Pistol 1
+Pistol Flare Gun 5
+Pistol Irradiated Bolt Action Pipe
+Pistol 3
+Pistol Pipe Pistol 2
+Pistol Plasma Infused Bolt-Action
+Pipe Pistol 4
+Pistol Poisoner's Pipe Pistol 3
+Pistol Ranger Sequoia 13
+Pistol Staggering Pipe Pistol 3
+Pistol Staggering Pipe Rifle 14
+Rifle Bolt-Action Pipe Rifle 10
+Rifle Crippling Bolt-Action Pipe
+Rifle 16
+Rifle Irradiated Pipe Rifle 10
+Rifle Junkie's Bolt Action Pipe Rifle 13
+Rifle Pipe Rifle 8
+Rifle Railway Rifle 20
+Rifle Sawed-Off Shotgun 15
+Thrown
+Weapon Baseball Grenade 5
+Thrown
+Weapon Long-Fuse Dynamite 3
+Thrown
+Weapon Molotov Cocktail 4
+Thrown
+Weapon Throwing Spear 3
