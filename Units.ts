@@ -6,15 +6,18 @@ export default class Units {
     private costChecker: RegExp;
     private trashRemover: RegExp;
     private typeChecker: RegExp;
+    private _units: Unit[] = [];
 
     constructor(rawData: string[]) {
         this.rawData = rawData;
-        
         this.typeChecker = new RegExp(` ?(${TYPES.join('|')}),? ?`, 'gi');
         this.costChecker = new RegExp(/ ?\d{1,3}$/);
         this.trashRemover = new RegExp(/\*/g);
-
         this.setUnits();
+    }
+
+    get units() {
+        return this._units;
     }
 
     private setUnits() {
@@ -34,7 +37,7 @@ export default class Units {
             }
             units.push(unit);
         }
-        console.log(units);
+        this._units = units;
     }
 
     private getUnitLines(): string[] {
