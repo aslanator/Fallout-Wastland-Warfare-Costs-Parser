@@ -8,14 +8,14 @@ const fs_1 = require("fs");
 const Items_1 = __importDefault(require("./Items"));
 const Units_1 = __importDefault(require("./Units"));
 async function getUnits() {
-    const unitsData = await fs_1.promises.readFile('./survivors.txt');
+    const unitsData = await fs_1.promises.readFile(__dirname + '/survivors.txt');
     const unitsDataArray = unitsData.toString().split(/\r\n/);
     return new Units_1.default(unitsDataArray);
 }
 exports.getUnits = getUnits;
 ;
 async function getItems() {
-    const itemsData = await fs_1.promises.readFile('./data.txt');
+    const itemsData = await fs_1.promises.readFile(__dirname + '/data.txt');
     const itemsDataArray = itemsData.toString().split(/\r\n/);
     return new Items_1.default(itemsDataArray);
 }
