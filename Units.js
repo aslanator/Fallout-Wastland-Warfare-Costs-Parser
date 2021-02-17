@@ -3,11 +3,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const constants_1 = require("./constants");
 class Units {
     constructor(rawData) {
+        this._units = [];
         this.rawData = rawData;
         this.typeChecker = new RegExp(` ?(${constants_1.TYPES.join('|')}),? ?`, 'gi');
         this.costChecker = new RegExp(/ ?\d{1,3}$/);
         this.trashRemover = new RegExp(/\*/g);
         this.setUnits();
+    }
+    get units() {
+        return this._units;
     }
     setUnits() {
         const unitLines = this.getUnitLines();
@@ -26,7 +30,7 @@ class Units {
             };
             units.push(unit);
         }
-        console.log(units);
+        this._units = units;
     }
     getUnitLines() {
         let joinedUnit = '';
