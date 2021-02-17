@@ -2,15 +2,16 @@ import {promises} from 'fs';
 import Items from './Items';
 import Units from './Units';
 
-(async function() {
-    
-    const itemsData: Buffer = await promises.readFile('./data.txt');
-    const itemsDataArray: string[] = itemsData.toString().split(/\r\n/);
-
+export async function getUnits() {
     const unitsData: Buffer = await promises.readFile('./survivors.txt');
     const unitsDataArray: string[] = unitsData.toString().split(/\r\n/);
 
-    const items = new Items(itemsDataArray);
+    return new Units(unitsDataArray);
+};
 
-    const units = new Units(unitsDataArray);
-})(); 
+export async function getItems() {
+    const itemsData: Buffer = await promises.readFile('./data.txt');
+    const itemsDataArray: string[] = itemsData.toString().split(/\r\n/);
+
+    return new Items(itemsDataArray);
+};
