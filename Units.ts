@@ -16,7 +16,7 @@ export default class Units {
         this.setUnits();
     }
 
-    get units() {
+    get units(): Unit[] {
         return this._units;
     }
 
@@ -27,13 +27,12 @@ export default class Units {
             const types = this.getTypesByUnitLine(unitLine);
             const title = this.getTitleByUnitLine(unitLine);
             const cost = this.getCostByUnitLine(unitLine);
-            const items = this.getItemsByUnitLine(unitLine);
             const unit = {
                 types,
                 title,
                 unitLine,
                 cost,
-                items,
+                items: [],
             }
             units.push(unit);
         }
@@ -81,14 +80,5 @@ export default class Units {
             return titleMatch[1];
         }
         return '';
-    }
-
-    private getItemsByUnitLine(unitLine: string): string[] {
-        const regExp = new RegExp(` (${TYPES.join('|')}) ([\\w, ]+|-) \\d{1,3}$`, 'i');
-        const itemsMatch = unitLine.match(regExp);
-        if(itemsMatch && itemsMatch[2] && itemsMatch[2] !== '-') {
-            return itemsMatch[2].split(',');
-        }
-        return [];
     }
 }

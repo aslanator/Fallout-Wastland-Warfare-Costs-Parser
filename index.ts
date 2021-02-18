@@ -1,12 +1,13 @@
 import {promises} from 'fs';
 import Items from './Items';
 import Units from './Units';
+import FetchUnitsData from './FetchUnitsData'
 
-export async function getUnits() {
-    const unitsData: Buffer = await promises.readFile(__dirname + '/survivors.txt');
-    const unitsDataArray: string[] = unitsData.toString().split(/\r\n/);
-
-    return new Units(unitsDataArray);
+export async function getUnits(): Promise<Map<string, Units>> {
+    const unitsMap = new Map;
+    unitsMap.set('survivors', await FetchUnitsData.getSurvivors());
+    unitsMap.set('bos', await FetchUnitsData.getBos());
+    return unitsMap;
 };
 
 export async function getItems() {
